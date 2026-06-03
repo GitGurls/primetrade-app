@@ -16,7 +16,7 @@
 | Security | Helmet, bcryptjs, express-rate-limit |
 | API Docs | Swagger (OpenAPI 3.0) |
 | Logging | Winston |
-| Frontend | React 18, React Router v6, Axios |
+| Frontend | React 18, React Router v6, Axios|
 
 ---
 
