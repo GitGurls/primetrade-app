@@ -78,7 +78,7 @@ npm start                 # Starts on http://localhost:3000
 ```env
 PORT=5000
 NODE_ENV=development
-MONGO_URI=mongodb://localhost:27017/primetrade_db
+MONGO_URI=//
 JWT_SECRET=your_super_secret_key_min_32_chars
 JWT_EXPIRE=7d
 JWT_REFRESH_SECRET=your_refresh_secret_key
